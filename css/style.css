@@ -123,9 +123,9 @@ body {
     font-size: 11px; 
     text-align: center; 
     padding-top: 50px;
-    color: hsla(228, 45%, 44%, 0.185); 
+    color: hsl(228, 12%, 48%); 
 }
 .attribution a { 
-    color: hsla(228, 45%, 44%, 0.185); 
+    color: hsl(158, 36%, 37%); 
     text-decoration: none;
 }
