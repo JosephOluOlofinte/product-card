@@ -47,6 +47,6 @@ I didn't really learn anything new here, but it did help me practice with more p
 
 ## Author
 
-- Website - [Joseph Olu Olofinte](https://www.linkedin.com/in/joseph-olu/)
+- LinkedIn - [Joseph Olu Olofinte](https://www.linkedin.com/in/joseph-olu/)
 - Frontend Mentor - [@JosephOluOlofinte](https://www.frontendmentor.io/profile/JosephOluOlofinte)
 - Twitter - [@josepholofinte](https://www.twitter.com/josepholofinte)
