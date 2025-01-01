@@ -25,12 +25,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+- Desktop view
+
+![](./screenshot.png)
+
+- Mobile view
+
+![](./mobile-screenshot.png)
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/JosephOluOlofinte/product-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Product Preview Card](https://josepholuolofinte.github.io/product-card/)
 
 ## My process
 
@@ -39,6 +45,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS3 custom properties
 - Flexbox
+- CSS Grid
 
 ### What I learned
 
