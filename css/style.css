@@ -75,7 +75,7 @@ body {
     gap: 20px;
 }
 
-.card-price h4 {
+.card-price h3 {
     font-family: 'Fraunces', Arial, Helvetica, sans-serif;
     font-weight: 700;
     font-size: 32px;
@@ -83,7 +83,7 @@ body {
     line-height: 1;
 }
 
-.card-price h5 {
+.card-price h4 {
     font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: normal;
     font-weight: 500;
