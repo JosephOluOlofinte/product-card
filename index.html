@@ -4,17 +4,23 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
   <!-- displays site properly based on user's device -->
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="./css/style.css">
   
   <title>Product preview card component</title>
 </head>
 <body>
 
-  <div class="card">
-    <img src="images/image-product-desktop.jpg" alt="">
+  <main class="card">
+
+    <div class="banner">
+      <picture>
+        <source media="(max-width:480px)" srcset="./images/image-product-mobile.jpg" class="mobile-banner">
+        <img src="./images/image-product-desktop.jpg" class="desktop-banner">
+      </picture>
+    </div>
+
     <div class="card-body">
-      <h2>PERFUME</h2>
+      <h1>PERFUME</h1>
 
       <h3>Gabrielle Essence Eau De Parfum</h3>
 
@@ -33,9 +39,5 @@
   </div>
   
   
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>. 
-    Coded by <a href="#">Joseph Olu Olofinte</a>.
-  </div>
 </body>
 </html>
